@@ -16,7 +16,7 @@ contract SimpleStorage {
     }
     
     // Address that receives the XDCs at the first purchase. Avoid burning XDC.
-    address payable bank = 0xc1489b00Ba538DdA23c8398F1a114b4EDab62Cd1;
+    address payable bank = 0x76C1A0927873D4D784A2D5Cf6Ea24D7f86a8F6dc;
     
     // Public array of words stored in blockchain
     Word[] public words;
