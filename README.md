@@ -1,4 +1,4 @@
-# XinFin-DicoChain Dapp
+# XinFin-DicoChain Dapp [DOWN]
 Dicochain is Dapp deployed in XinFin Blockchain
 
 What is DicoChain ? DicoChain is a decentralized application based on the XinFin blockchain. DicoChain is a demonstration of how a decentralized application works on the main network, you must use real XDC to use it.
